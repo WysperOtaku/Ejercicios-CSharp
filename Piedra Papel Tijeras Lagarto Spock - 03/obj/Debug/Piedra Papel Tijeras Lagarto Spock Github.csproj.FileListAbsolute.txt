@@ -1,0 +1,7 @@
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\bin\Debug\Piedra Papel Tijeras Lagarto Spook Github.exe.config
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\bin\Debug\Piedra Papel Tijeras Lagarto Spook Github.exe
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\bin\Debug\Piedra Papel Tijeras Lagarto Spook Github.pdb
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\obj\Debug\Piedra Papel Tijeras Lagarto Spock Github.csproj.AssemblyReference.cache
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\obj\Debug\Piedra Papel Tijeras Lagarto Spock Github.csproj.CoreCompileInputs.cache
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\obj\Debug\Piedra Papel Tijeras Lagarto Spook Github.exe
+C:\Users\Eriquito00\source\repos\Piedra Papel Tijeras Lagarto Spock Github\Piedra Papel Tijeras Lagarto Spock Github\obj\Debug\Piedra Papel Tijeras Lagarto Spook Github.pdb
