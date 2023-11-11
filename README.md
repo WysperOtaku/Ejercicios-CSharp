@@ -1,6 +1,6 @@
 # Ejercicios-CSharp
 
-_Sobre el repositorio _
+_Sobre el repositorio_
 
 [![WysperOtaku - Ejercicios-CSharp](https://img.shields.io/static/v1?label=WysperOtaku&message=Ejercicios-CSharp&color=green&logo=github)](https://github.com/WysperOtaku/Ejercicios-CSharp "Go to GitHub repo")
 [![stars - Ejercicios-CSharp](https://img.shields.io/github/stars/WysperOtaku/Ejercicios-CSharp?style=social)](https://github.com/WysperOtaku/Ejercicios-CSharp)
