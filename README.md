@@ -21,4 +21,4 @@ Iré actualizando los ejercicios a medida que vaya aprendiendo
 
 _Contacta con nosotros_
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [Click here!](https://discordapp.com/users/308555971377233921)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/308555971377233921)
