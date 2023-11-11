@@ -5,7 +5,8 @@ _Social buttons_
 [![WysperOtaku - Ejercicios-CSharp](https://img.shields.io/static/v1?label=WysperOtaku&message=Ejercicios-CSharp&color=green&logo=github)](https://github.com/WysperOtaku/Ejercicios-CSharp "Go to GitHub repo")
 [![stars - Ejercicios-CSharp](https://img.shields.io/github/stars/WysperOtaku/Ejercicios-CSharp?style=social)](https://github.com/WysperOtaku/Ejercicios-CSharp)
 [![forks - Ejercicios-CSharp](https://img.shields.io/github/forks/WysperOtaku/Ejercicios-CSharp?style=social)](https://github.com/WysperOtaku/Ejercicios-CSharp)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/308555971377233921).
+[![contributors](https://img.shields.io/github/contributors/WysperOtaku/Ejercicios-CSharp&color-green&logo-github)
+
 
 ## Hecho con:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
