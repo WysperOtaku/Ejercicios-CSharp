@@ -1,0 +1,15 @@
+/home/david/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/david/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/david/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/david/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/david/C#/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/david/C#/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
