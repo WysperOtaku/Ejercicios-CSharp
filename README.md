@@ -1,5 +1,6 @@
 # Ejercicios-CSharp
-[![Contributors][contributors-shield]][contributors-url]
+<br />
+
 <br />
 Me voy a ir guardando todos los ejercicios que vaya haciendo para practicar por aqui, puedes consultar si lo necesitas
 Iré actualizando los ejercicios a medida que vaya aprendiendo
