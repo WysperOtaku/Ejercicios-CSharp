@@ -4,5 +4,5 @@
 
 _Contacta con nosotros_
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)[disc](https://discordapp.com/users/308555971377233921) User: wysperot
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)[Click here](https://discordapp.com/users/308555971377233921)
 
