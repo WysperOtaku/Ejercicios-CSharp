@@ -1,4 +1,7 @@
-# Ejercicios-CSharp
-Me voy a ir guardando todos los ejercicios que vaya haciendo para practicar por aqui, puedes consultar si lo necesitas
-Iré actualizando los ejercicios a medida que vaya aprendiendo
-![Ups, no carga!](https://github.com/WysperOtaku/Ejercicios-C-/blob/1c121e939297e72073bc999257f7823bf20c52fd/img/banner.jpg)
+# Rama de desarrollo de ejercicios
+
+## Subiremos los ejercicios a medida que vayamos haciendo mas
+
+_Contacta con nosotros_
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)[](https://discordapp.com/users/308555971377233921)
