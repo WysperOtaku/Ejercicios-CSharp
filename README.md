@@ -15,7 +15,7 @@ _Sobre el repositorio_
 
 Me voy a ir guardando todos los ejercicios que vaya haciendo para practicar por aqui, puedes consultar si lo necesitas
 Iré actualizando los ejercicios a medida que vaya aprendiendo
-![Ups, no carga!](https://github.com/WysperOtaku/Ejercicios-CSharp/blob/5638200d2e4726ce81257647216ff92014205cbc/img/banner.jpg)
+![Ups, no carga!](https://github.com/WysperOtaku/Ejercicios-CSharp/blob/52993b5f5f134ddbda54e297385dc59b4f1c7023/img/icon.jpeg)
 
 ## Subiremos los ejercicios a medida que vayamos haciendo mas
 
