@@ -1,0 +1,15 @@
+/home/david/C#/Ejercicios/bin/Debug/net7.0/Ejercicios
+/home/david/C#/Ejercicios/bin/Debug/net7.0/Ejercicios.deps.json
+/home/david/C#/Ejercicios/bin/Debug/net7.0/Ejercicios.runtimeconfig.json
+/home/david/C#/Ejercicios/bin/Debug/net7.0/Ejercicios.dll
+/home/david/C#/Ejercicios/bin/Debug/net7.0/Ejercicios.pdb
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.csproj.AssemblyReference.cache
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.AssemblyInfoInputs.cache
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.AssemblyInfo.cs
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.csproj.CoreCompileInputs.cache
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.dll
+/home/david/C#/Ejercicios/obj/Debug/net7.0/refint/Ejercicios.dll
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.pdb
+/home/david/C#/Ejercicios/obj/Debug/net7.0/Ejercicios.genruntimeconfig.cache
+/home/david/C#/Ejercicios/obj/Debug/net7.0/ref/Ejercicios.dll
