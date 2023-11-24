@@ -1,0 +1,5 @@
+/home/david/C#/ConsoleApp1/bin/Release/net7.0/publish/ConsoleApp1
+/home/david/C#/ConsoleApp1/bin/Release/net7.0/publish/ConsoleApp1.dll
+/home/david/C#/ConsoleApp1/bin/Release/net7.0/publish/ConsoleApp1.deps.json
+/home/david/C#/ConsoleApp1/bin/Release/net7.0/publish/ConsoleApp1.runtimeconfig.json
+/home/david/C#/ConsoleApp1/bin/Release/net7.0/publish/ConsoleApp1.pdb
